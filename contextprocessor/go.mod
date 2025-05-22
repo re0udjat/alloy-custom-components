@@ -6,7 +6,7 @@ require (
 	go.opentelemetry.io/collector/client v1.28.1
 	go.opentelemetry.io/collector/component v1.28.1
 	go.opentelemetry.io/collector/consumer v1.28.1
-	go.opentelemetry.io/collector/pdata v1.32.0
+	go.opentelemetry.io/collector/pdata v1.28.1
 	go.opentelemetry.io/collector/processor v0.122.1
 	go.opentelemetry.io/otel v1.36.0
 	go.opentelemetry.io/otel/trace v1.36.0
